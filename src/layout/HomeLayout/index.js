@@ -1,3 +1,4 @@
+import Header from 'pages/shared/header/Header';
 import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { Outlet } from 'react-router-dom';
@@ -7,9 +8,7 @@ import { Outlet } from 'react-router-dom';
 const HomeLayout = () => {
     return (
         <div sx={{ display: 'flex', width: '100%' }}>
-            <p>This is Nav Bar</p>
-            <p>This is Nav Bar</p>
-            <p>This is Nav Bar</p>
+            <Header />
             <Outlet></Outlet>
             <p>This is footer</p>
             <p>This is footer</p>
