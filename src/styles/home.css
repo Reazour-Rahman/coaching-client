@@ -18,3 +18,17 @@
     background-size: cover;
     z-index: 100;
 }
+
+.idealogy-section{
+    padding: 50px 0px;
+}
+
+.idealogy-card-header{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.idealogy-card-paragraph {
+    color: #555;
+    font-size: 15px;
+}

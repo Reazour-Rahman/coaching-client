@@ -30,21 +30,8 @@ const Idealogy = () => {
                                         marginBottom: '15px'
                                     }}
                                 />
-                                <h3
-                                    style={{
-                                        fontSize: '20px',
-                                        fontWeight: '600',
-                                        marginBottom: '5px'
-                                    }}
-                                >
-                                    Vision & Mission
-                                </h3>
-                                <p
-                                    style={{
-                                        fontSize: '15px',
-                                        color: '#555'
-                                    }}
-                                >
+                                <h3 className="idealogy-card-header">Vision & Mission</h3>
+                                <p className="idealogy-card-paragraph">
                                     Contetur adipisicing elit, sed do eiusm tempor incididu laboret dolore.
                                 </p>
                             </Box>
@@ -57,21 +44,8 @@ const Idealogy = () => {
                                         marginBottom: '15px'
                                     }}
                                 />
-                                <h3
-                                    style={{
-                                        fontSize: '20px',
-                                        fontWeight: '600',
-                                        marginBottom: '5px'
-                                    }}
-                                >
-                                    Trending Items
-                                </h3>
-                                <p
-                                    style={{
-                                        fontSize: '15px',
-                                        color: '#555'
-                                    }}
-                                >
+                                <h3 className="idealogy-card-header">Trending Items</h3>
+                                <p className="idealogy-card-paragraph">
                                     Contetur adipisicing elit, sed do eiusm tempor incididu laboret dolore
                                 </p>
                             </Box>
@@ -84,21 +58,8 @@ const Idealogy = () => {
                                         marginBottom: '15px'
                                     }}
                                 />
-                                <h3
-                                    style={{
-                                        fontSize: '20px',
-                                        fontWeight: '600',
-                                        marginBottom: '5px'
-                                    }}
-                                >
-                                    Empower Startup
-                                </h3>
-                                <p
-                                    style={{
-                                        fontSize: '15px',
-                                        color: '#555'
-                                    }}
-                                >
+                                <h3 className="idealogy-card-header">Empower Startup</h3>
+                                <p className="idealogy-card-paragraph">
                                     Contetur adipisicing elit, sed do eiusm tempor incididu laboret dolore.
                                 </p>
                             </Box>
@@ -111,21 +72,8 @@ const Idealogy = () => {
                                         marginBottom: '15px'
                                     }}
                                 />
-                                <h3
-                                    style={{
-                                        fontSize: '20px',
-                                        fontWeight: '600',
-                                        marginBottom: '5px'
-                                    }}
-                                >
-                                    Working Strategies
-                                </h3>
-                                <p
-                                    style={{
-                                        fontSize: '15px',
-                                        color: '#555'
-                                    }}
-                                >
+                                <h3 className="idealogy-card-header">Working Strategies</h3>
+                                <p className="idealogy-card-paragraph">
                                     Contetur adipisicing elit, sed do eiusm tempor incididu laboret dolore.
                                 </p>
                             </Box>
