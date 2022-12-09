@@ -1,3 +1,5 @@
+
+
 .banner-section {
     position: relative;
     padding: 185px 0 0px;
@@ -7,7 +9,7 @@
     background-size: cover;
     background-image: url(//20093980.fs1.hubspotusercontent-na1.net/hubfs/20093980/raw_assets/public/saasweb/images/icons/banner-shape-1.jpg);
 }
-.right-side{
+.right-side {
     position: relative;
     padding: 185px 0 0px;
     background-image: url(https://f.hubspotusercontent30.net/hubfs/20093980/saasweb/big-shape-10.png);
@@ -15,4 +17,18 @@
     background-repeat: no-repeat;
     background-size: cover;
     z-index: 100;
+}
+
+.idealogy-section{
+    padding: 50px 0px;
+}
+
+.idealogy-card-header{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.idealogy-card-paragraph {
+    color: #555;
+    font-size: 15px;
 }
